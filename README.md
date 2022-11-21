@@ -1,3 +1,5 @@
+Hi 👋
+
 public void personalDescription() {
 
     Console.WriteLine("Welcome to my GitHub!");
